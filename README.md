@@ -1,4 +1,4 @@
-# Project McNulty - Predicting Illegal Drugs Consumption
+# Project McNulty - Predicting Illegal Drugs Consumption (Classification)
 
 ## Contents
 You can find the pdf presentation, the code and the original survey data in this repository. 
